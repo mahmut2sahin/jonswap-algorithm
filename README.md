@@ -1,0 +1,1 @@
+Assignment from METU (Middle East Technical University) CE498 Coastal Design about JONSWAP Algorithm.
